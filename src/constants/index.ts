@@ -123,7 +123,7 @@ export const EXPERIENCES = [
     iconBg: "#383E56",
     date: "June 2024 - Present",
     points: [
-      "Worked with the Django development team with Responsibility for bug fixtures and site maintenance.",
+      "Data Extraction : Proficiently extract data from diverse source systems (IQMS, Syteline, etc.) and orchestrate its seamless transfer to Azure Data Lake using meticulously crafted data pipelines.",
       "Implemented mass newsletter mailing and subscription system by customizing TinyMCE to create email templates.",
       "Added question recommendation system for quiz using cosine similarity and NumPy.",
       "Customized user dashboard for stats and results display integration of OAuth social networking API, merged existing Django requests to Ajax.",
