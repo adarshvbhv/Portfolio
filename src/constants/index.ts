@@ -124,9 +124,9 @@ export const EXPERIENCES = [
     date: "June 2024 - Present",
     points: [
       "Data Extraction : Proficiently extract data from diverse source systems (IQMS, Syteline, etc.) and orchestrate its seamless transfer to Azure Data Lake using meticulously crafted data pipelines.",
-      "Implemented mass newsletter mailing and subscription system by customizing TinyMCE to create email templates.",
-      "Added question recommendation system for quiz using cosine similarity and NumPy.",
-      "Customized user dashboard for stats and results display integration of OAuth social networking API, merged existing Django requests to Ajax.",
+      "Data Cleansing and Transformation: Leverage advanced SQL skills and a deep understanding of MS SQL stored procedures to meticulously cleanse and prepare extracted data in Data Warehouse for further analysis.",
+      "Azure Cloud Technologies: Familiarity with Azure Synapse, Azure Data Factory, Azure Logic Apps, and Azure Data Lake for building and managing data solutions in the cloud.",
+      
     ],
   },
   {
