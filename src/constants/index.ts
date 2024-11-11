@@ -117,11 +117,11 @@ export const TECHNOLOGIES = [
 // Experiences
 export const EXPERIENCES = [
   {
-    title: "Software Engineer Intern",
-    company_name: "Incipient Technologies",
+    title: "Data Engineer 2",
+    company_name: "Accordion",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "May 2023 - July 2023",
+    date: "June 2024 - Present",
     points: [
       "Worked with the Django development team with Responsibility for bug fixtures and site maintenance.",
       "Implemented mass newsletter mailing and subscription system by customizing TinyMCE to create email templates.",
