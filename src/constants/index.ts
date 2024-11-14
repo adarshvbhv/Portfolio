@@ -130,11 +130,11 @@ export const EXPERIENCES = [
     ],
   },
   {
-    title: "Joint General Secretary",
-    company_name: "Games and Sports Council, IIT BHU",
+    title: "Software Engineer Intern",
+    company_name: "Incipient Technologies",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Apr 2022 - Apr 2023",
+    date: "May 2023 - July 2023",
     points: [
       "Responsible for managing the sports activities of IIT (BHU) of more than 7000 students.",
       "Made the Financial-Budget of the Sports Council budgeted for the whole Council, including equipment for 18 different sports, plus all year-round activities, amounted to over 10 Million Rupees.",
